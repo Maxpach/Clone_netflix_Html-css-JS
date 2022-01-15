@@ -1,9 +1,10 @@
 DO QUE SE TRATA O PROJETO?
+ Um clone da landing page da Netflix.
 
-Um clone da landing page da Netflix.
 
-Quais Tecnologias ultilizadas?
+QUAIS TECNOLOGIAS ULTILIZADAS?
+ A trinca do front-end ( HTML - CSS - JAVASCRIP )
 
-A trinca do front-end ( HTML - CSS - JAVASCRIP )
 
-STATUS DO PROJETO: Se encontra em construção, logo darei mais detalhes.
+STATUS DO PROJETO?
+ Se encontra em construção, logo darei mais detalhes.
