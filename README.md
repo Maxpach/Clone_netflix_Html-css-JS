@@ -12,4 +12,5 @@ ______________________________________________________________
 
 STATUS DO PROJETO?
 
-Se encontra em construção, logo darei mais detalhes.
+Landing-page completa. 
+Apenas uma apresentação, um projeto com função responsiva.
