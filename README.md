@@ -5,7 +5,7 @@ _____________________________________________________________
 
 QUAIS TECNOLOGIAS SÃO UTILIZADAS?
 
-Front-end ( HTML - CSS - JAVASCRIP )
+Front-end - 30% HTML - 50% CSS - 20% JAVASCRIPT
 
 ______________________________________________________________
 
