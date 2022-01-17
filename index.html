@@ -2,9 +2,11 @@
 <html lang="pt-br">
 <head>
 	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Netflix Landing Page</title>
 	<link rel="stylesheet" type="text/css" href="src/style.css" media="screen" />
+	<link rel="shortcut icon" href="assets/favicon.png" type="image/png">
 </head>
 <body>
 
@@ -17,6 +19,7 @@
 			<li><a href="#">Latest	</a></li>
 			<li><a href="#">My List </a></li>
 		</ul>
+
 		<div class ="search">
 			<input type="text" placeholder="Search">
 			<i class="fas fa-search"></i>			
@@ -44,13 +47,14 @@
 				<a href="#"><i class="fa fa-plus" aria-hidden="true"></i> My List</a>
 			</div>
 		</div>
+		
 		<a class="play" onclick="toggleVideo()"><img src="assets/Play.png"> Watch Trailer</a>
 	</div>
 
 	<div class="trailer">
-		<video src="assets/video.mp4" controls="true"></video>
-		<img src="assets/close.png" class="close" onclick="toggleVideo()">		
-	</div>		
+		 <video src="assets/video.mp4" controls="true"></video>
+		 <img src="assets/close.png" class="close" onclick="toggleVideo()">		
+	</div>	
 
 </body>
 	<script src="src/script.js"></script>
