@@ -5,7 +5,7 @@ _____________________________________________________________
 
 QUAIS TECNOLOGIAS SÃO UTILIZADAS?
 
-A trinca do front-end ( HTML - CSS - JAVASCRIP )
+Front-end ( HTML - CSS - JAVASCRIP )
 
 ______________________________________________________________
 
